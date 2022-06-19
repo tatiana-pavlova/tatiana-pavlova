@@ -7,7 +7,7 @@
 * 👩🏼‍💻 Желаю стать частью мира программирования 
 
 ## Стэк технологий
-![image](https://user-images.githubusercontent.com/81412047/174492538-aaa85f40-40f8-4314-9670-4b9071a3b006.png)
+HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Git
 
 <!--
 **tatiana-pavlova/tatiana-pavlova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
