@@ -8,7 +8,15 @@
 
 #### Стэк технологий
 ![](html.png)
-HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Git
+![](css.png)
+![](js.png)
+![](react.png)
+![](node.png)
+![](express.png)
+![](mongodb.png)
+![](webpack.png)
+![](git.png)
+![](github.png)
 
 <!--
 **tatiana-pavlova/tatiana-pavlova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
