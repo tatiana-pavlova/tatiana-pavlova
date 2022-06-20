@@ -7,11 +7,11 @@
 * 👩🏼‍💻 Желаю стать частью мира программирования 
 
 #### Стэк технологий
-![](html.png)  
-![](css.png)  
-![](js.png)  
-![](react.png)  
-![](node.png)  
+![](html.png)
+![](css.png)
+![](js.png)
+![](react.png)
+![](nodejs.png)
 ![](express.png)
 ![](mongodb.png)
 ![](webpack.png)
