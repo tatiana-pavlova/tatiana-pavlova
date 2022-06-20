@@ -18,6 +18,11 @@
 ![](git.png)
 ![](github.png)
 
+#### Контакты
+![](email.png) pavlova.tat.ole@gmail.com  
+![](telegram.png) [Telegram](https://t.me/pavlova_tati) 
+![](facebook.png) [Facebook Account](https://www.facebook.com/tatiana.pavlova.902)
+
 <!--
 **tatiana-pavlova/tatiana-pavlova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
