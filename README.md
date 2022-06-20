@@ -9,7 +9,7 @@
 #### Стэк технологий
 ![](html.png)
 ![](css.png)
-![](js.png)
+![](javascript.png)
 ![](react.png)
 ![](nodejs.png)
 ![](express.png)
