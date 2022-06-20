@@ -7,6 +7,7 @@
 * 👩🏼‍💻 Желаю стать частью мира программирования 
 
 #### Стэк технологий
+![](html.png)
 HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Git
 
 <!--
